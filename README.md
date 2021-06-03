@@ -1,0 +1,2 @@
+# lore
+ minha inteligencia artificial
